@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Guillaume working @spotify as a Product Manager, and fooling around on some projects here and there.
+
 
 <!--
 **Gui11aum3/gui11aum3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
